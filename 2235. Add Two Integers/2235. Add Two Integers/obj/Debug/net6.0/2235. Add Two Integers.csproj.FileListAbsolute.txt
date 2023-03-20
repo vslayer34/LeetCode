@@ -1,0 +1,15 @@
+D:\Projects\C#\LeetCode\2235. Add Two Integers\2235. Add Two Integers\bin\Debug\net6.0\2235. Add Two Integers.exe
+D:\Projects\C#\LeetCode\2235. Add Two Integers\2235. Add Two Integers\bin\Debug\net6.0\2235. Add Two Integers.deps.json
+D:\Projects\C#\LeetCode\2235. Add Two Integers\2235. Add Two Integers\bin\Debug\net6.0\2235. Add Two Integers.runtimeconfig.json
+D:\Projects\C#\LeetCode\2235. Add Two Integers\2235. Add Two Integers\bin\Debug\net6.0\2235. Add Two Integers.dll
+D:\Projects\C#\LeetCode\2235. Add Two Integers\2235. Add Two Integers\bin\Debug\net6.0\2235. Add Two Integers.pdb
+D:\Projects\C#\LeetCode\2235. Add Two Integers\2235. Add Two Integers\obj\Debug\net6.0\2235. Add Two Integers.csproj.AssemblyReference.cache
+D:\Projects\C#\LeetCode\2235. Add Two Integers\2235. Add Two Integers\obj\Debug\net6.0\2235. Add Two Integers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C#\LeetCode\2235. Add Two Integers\2235. Add Two Integers\obj\Debug\net6.0\2235. Add Two Integers.AssemblyInfoInputs.cache
+D:\Projects\C#\LeetCode\2235. Add Two Integers\2235. Add Two Integers\obj\Debug\net6.0\2235. Add Two Integers.AssemblyInfo.cs
+D:\Projects\C#\LeetCode\2235. Add Two Integers\2235. Add Two Integers\obj\Debug\net6.0\2235. Add Two Integers.csproj.CoreCompileInputs.cache
+D:\Projects\C#\LeetCode\2235. Add Two Integers\2235. Add Two Integers\obj\Debug\net6.0\2235. Add Two Integers.dll
+D:\Projects\C#\LeetCode\2235. Add Two Integers\2235. Add Two Integers\obj\Debug\net6.0\refint\2235. Add Two Integers.dll
+D:\Projects\C#\LeetCode\2235. Add Two Integers\2235. Add Two Integers\obj\Debug\net6.0\2235. Add Two Integers.pdb
+D:\Projects\C#\LeetCode\2235. Add Two Integers\2235. Add Two Integers\obj\Debug\net6.0\2235. Add Two Integers.genruntimeconfig.cache
+D:\Projects\C#\LeetCode\2235. Add Two Integers\2235. Add Two Integers\obj\Debug\net6.0\ref\2235. Add Two Integers.dll

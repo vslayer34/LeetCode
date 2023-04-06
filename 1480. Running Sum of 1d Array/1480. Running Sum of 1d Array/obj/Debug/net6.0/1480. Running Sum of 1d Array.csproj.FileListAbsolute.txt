@@ -1,0 +1,15 @@
+D:\Projects\C#\LeetCode\1480. Running Sum of 1d Array\1480. Running Sum of 1d Array\obj\Debug\net6.0\1480. Running Sum of 1d Array.csproj.AssemblyReference.cache
+D:\Projects\C#\LeetCode\1480. Running Sum of 1d Array\1480. Running Sum of 1d Array\obj\Debug\net6.0\1480. Running Sum of 1d Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C#\LeetCode\1480. Running Sum of 1d Array\1480. Running Sum of 1d Array\obj\Debug\net6.0\1480. Running Sum of 1d Array.AssemblyInfoInputs.cache
+D:\Projects\C#\LeetCode\1480. Running Sum of 1d Array\1480. Running Sum of 1d Array\obj\Debug\net6.0\1480. Running Sum of 1d Array.AssemblyInfo.cs
+D:\Projects\C#\LeetCode\1480. Running Sum of 1d Array\1480. Running Sum of 1d Array\obj\Debug\net6.0\1480. Running Sum of 1d Array.csproj.CoreCompileInputs.cache
+D:\Projects\C#\LeetCode\1480. Running Sum of 1d Array\1480. Running Sum of 1d Array\bin\Debug\net6.0\1480. Running Sum of 1d Array.exe
+D:\Projects\C#\LeetCode\1480. Running Sum of 1d Array\1480. Running Sum of 1d Array\bin\Debug\net6.0\1480. Running Sum of 1d Array.deps.json
+D:\Projects\C#\LeetCode\1480. Running Sum of 1d Array\1480. Running Sum of 1d Array\bin\Debug\net6.0\1480. Running Sum of 1d Array.runtimeconfig.json
+D:\Projects\C#\LeetCode\1480. Running Sum of 1d Array\1480. Running Sum of 1d Array\bin\Debug\net6.0\1480. Running Sum of 1d Array.dll
+D:\Projects\C#\LeetCode\1480. Running Sum of 1d Array\1480. Running Sum of 1d Array\bin\Debug\net6.0\1480. Running Sum of 1d Array.pdb
+D:\Projects\C#\LeetCode\1480. Running Sum of 1d Array\1480. Running Sum of 1d Array\obj\Debug\net6.0\1480. Running Sum of 1d Array.dll
+D:\Projects\C#\LeetCode\1480. Running Sum of 1d Array\1480. Running Sum of 1d Array\obj\Debug\net6.0\refint\1480. Running Sum of 1d Array.dll
+D:\Projects\C#\LeetCode\1480. Running Sum of 1d Array\1480. Running Sum of 1d Array\obj\Debug\net6.0\1480. Running Sum of 1d Array.pdb
+D:\Projects\C#\LeetCode\1480. Running Sum of 1d Array\1480. Running Sum of 1d Array\obj\Debug\net6.0\1480. Running Sum of 1d Array.genruntimeconfig.cache
+D:\Projects\C#\LeetCode\1480. Running Sum of 1d Array\1480. Running Sum of 1d Array\obj\Debug\net6.0\ref\1480. Running Sum of 1d Array.dll

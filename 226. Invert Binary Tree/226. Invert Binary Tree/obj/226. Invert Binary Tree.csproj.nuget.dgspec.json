@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\C#\\LeetCode\\2236. Root Equals Sum of Children\\2236. Root Equals Sum of Children\\2236. Root Equals Sum of Children.csproj": {}
+    "D:\\Projects\\C#\\LeetCode\\226. Invert Binary Tree\\226. Invert Binary Tree\\226. Invert Binary Tree.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\C#\\LeetCode\\2236. Root Equals Sum of Children\\2236. Root Equals Sum of Children\\2236. Root Equals Sum of Children.csproj": {
+    "D:\\Projects\\C#\\LeetCode\\226. Invert Binary Tree\\226. Invert Binary Tree\\226. Invert Binary Tree.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\C#\\LeetCode\\2236. Root Equals Sum of Children\\2236. Root Equals Sum of Children\\2236. Root Equals Sum of Children.csproj",
-        "projectName": "2236. Root Equals Sum of Children",
-        "projectPath": "D:\\Projects\\C#\\LeetCode\\2236. Root Equals Sum of Children\\2236. Root Equals Sum of Children\\2236. Root Equals Sum of Children.csproj",
+        "projectUniqueName": "D:\\Projects\\C#\\LeetCode\\226. Invert Binary Tree\\226. Invert Binary Tree\\226. Invert Binary Tree.csproj",
+        "projectName": "226. Invert Binary Tree",
+        "projectPath": "D:\\Projects\\C#\\LeetCode\\226. Invert Binary Tree\\226. Invert Binary Tree\\226. Invert Binary Tree.csproj",
         "packagesPath": "C:\\Users\\Mohamed El-Nagar\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\C#\\LeetCode\\2236. Root Equals Sum of Children\\2236. Root Equals Sum of Children\\obj\\",
+        "outputPath": "D:\\Projects\\C#\\LeetCode\\226. Invert Binary Tree\\226. Invert Binary Tree\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mohamed El-Nagar\\AppData\\Roaming\\NuGet\\NuGet.Config",

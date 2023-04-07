@@ -1,0 +1,15 @@
+D:\Projects\C#\LeetCode\412. Fizz Buzz\412. Fizz Buzz\bin\Debug\net6.0\412. Fizz Buzz.exe
+D:\Projects\C#\LeetCode\412. Fizz Buzz\412. Fizz Buzz\bin\Debug\net6.0\412. Fizz Buzz.deps.json
+D:\Projects\C#\LeetCode\412. Fizz Buzz\412. Fizz Buzz\bin\Debug\net6.0\412. Fizz Buzz.runtimeconfig.json
+D:\Projects\C#\LeetCode\412. Fizz Buzz\412. Fizz Buzz\bin\Debug\net6.0\412. Fizz Buzz.dll
+D:\Projects\C#\LeetCode\412. Fizz Buzz\412. Fizz Buzz\bin\Debug\net6.0\412. Fizz Buzz.pdb
+D:\Projects\C#\LeetCode\412. Fizz Buzz\412. Fizz Buzz\obj\Debug\net6.0\412. Fizz Buzz.csproj.AssemblyReference.cache
+D:\Projects\C#\LeetCode\412. Fizz Buzz\412. Fizz Buzz\obj\Debug\net6.0\412. Fizz Buzz.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C#\LeetCode\412. Fizz Buzz\412. Fizz Buzz\obj\Debug\net6.0\412. Fizz Buzz.AssemblyInfoInputs.cache
+D:\Projects\C#\LeetCode\412. Fizz Buzz\412. Fizz Buzz\obj\Debug\net6.0\412. Fizz Buzz.AssemblyInfo.cs
+D:\Projects\C#\LeetCode\412. Fizz Buzz\412. Fizz Buzz\obj\Debug\net6.0\412. Fizz Buzz.csproj.CoreCompileInputs.cache
+D:\Projects\C#\LeetCode\412. Fizz Buzz\412. Fizz Buzz\obj\Debug\net6.0\412. Fizz Buzz.dll
+D:\Projects\C#\LeetCode\412. Fizz Buzz\412. Fizz Buzz\obj\Debug\net6.0\refint\412. Fizz Buzz.dll
+D:\Projects\C#\LeetCode\412. Fizz Buzz\412. Fizz Buzz\obj\Debug\net6.0\412. Fizz Buzz.pdb
+D:\Projects\C#\LeetCode\412. Fizz Buzz\412. Fizz Buzz\obj\Debug\net6.0\412. Fizz Buzz.genruntimeconfig.cache
+D:\Projects\C#\LeetCode\412. Fizz Buzz\412. Fizz Buzz\obj\Debug\net6.0\ref\412. Fizz Buzz.dll

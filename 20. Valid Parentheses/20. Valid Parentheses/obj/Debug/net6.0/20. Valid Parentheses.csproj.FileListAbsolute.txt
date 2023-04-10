@@ -1,0 +1,15 @@
+D:\Projects\C#\LeetCode\20. Valid Parentheses\20. Valid Parentheses\bin\Debug\net6.0\20. Valid Parentheses.exe
+D:\Projects\C#\LeetCode\20. Valid Parentheses\20. Valid Parentheses\bin\Debug\net6.0\20. Valid Parentheses.deps.json
+D:\Projects\C#\LeetCode\20. Valid Parentheses\20. Valid Parentheses\bin\Debug\net6.0\20. Valid Parentheses.runtimeconfig.json
+D:\Projects\C#\LeetCode\20. Valid Parentheses\20. Valid Parentheses\bin\Debug\net6.0\20. Valid Parentheses.dll
+D:\Projects\C#\LeetCode\20. Valid Parentheses\20. Valid Parentheses\bin\Debug\net6.0\20. Valid Parentheses.pdb
+D:\Projects\C#\LeetCode\20. Valid Parentheses\20. Valid Parentheses\obj\Debug\net6.0\20. Valid Parentheses.csproj.AssemblyReference.cache
+D:\Projects\C#\LeetCode\20. Valid Parentheses\20. Valid Parentheses\obj\Debug\net6.0\20. Valid Parentheses.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C#\LeetCode\20. Valid Parentheses\20. Valid Parentheses\obj\Debug\net6.0\20. Valid Parentheses.AssemblyInfoInputs.cache
+D:\Projects\C#\LeetCode\20. Valid Parentheses\20. Valid Parentheses\obj\Debug\net6.0\20. Valid Parentheses.AssemblyInfo.cs
+D:\Projects\C#\LeetCode\20. Valid Parentheses\20. Valid Parentheses\obj\Debug\net6.0\20. Valid Parentheses.csproj.CoreCompileInputs.cache
+D:\Projects\C#\LeetCode\20. Valid Parentheses\20. Valid Parentheses\obj\Debug\net6.0\20. Valid Parentheses.dll
+D:\Projects\C#\LeetCode\20. Valid Parentheses\20. Valid Parentheses\obj\Debug\net6.0\refint\20. Valid Parentheses.dll
+D:\Projects\C#\LeetCode\20. Valid Parentheses\20. Valid Parentheses\obj\Debug\net6.0\20. Valid Parentheses.pdb
+D:\Projects\C#\LeetCode\20. Valid Parentheses\20. Valid Parentheses\obj\Debug\net6.0\20. Valid Parentheses.genruntimeconfig.cache
+D:\Projects\C#\LeetCode\20. Valid Parentheses\20. Valid Parentheses\obj\Debug\net6.0\ref\20. Valid Parentheses.dll

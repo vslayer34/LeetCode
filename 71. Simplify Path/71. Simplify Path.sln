@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "71. Simplify Path", "71. Simplify Path\71. Simplify Path.csproj", "{1B78F036-2341-4F04-8D75-5A20639676BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B78F036-2341-4F04-8D75-5A20639676BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B78F036-2341-4F04-8D75-5A20639676BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B78F036-2341-4F04-8D75-5A20639676BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B78F036-2341-4F04-8D75-5A20639676BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74DA2D81-2DC9-4726-87D9-1973E0A01CD1}
+	EndGlobalSection
+EndGlobal

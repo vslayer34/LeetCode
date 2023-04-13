@@ -1,0 +1,15 @@
+D:\Projects\C#\LeetCode\71. Simplify Path\71. Simplify Path\obj\Debug\net6.0\71. Simplify Path.csproj.AssemblyReference.cache
+D:\Projects\C#\LeetCode\71. Simplify Path\71. Simplify Path\obj\Debug\net6.0\71. Simplify Path.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C#\LeetCode\71. Simplify Path\71. Simplify Path\obj\Debug\net6.0\71. Simplify Path.AssemblyInfoInputs.cache
+D:\Projects\C#\LeetCode\71. Simplify Path\71. Simplify Path\obj\Debug\net6.0\71. Simplify Path.AssemblyInfo.cs
+D:\Projects\C#\LeetCode\71. Simplify Path\71. Simplify Path\obj\Debug\net6.0\71. Simplify Path.csproj.CoreCompileInputs.cache
+D:\Projects\C#\LeetCode\71. Simplify Path\71. Simplify Path\bin\Debug\net6.0\71. Simplify Path.exe
+D:\Projects\C#\LeetCode\71. Simplify Path\71. Simplify Path\bin\Debug\net6.0\71. Simplify Path.deps.json
+D:\Projects\C#\LeetCode\71. Simplify Path\71. Simplify Path\bin\Debug\net6.0\71. Simplify Path.runtimeconfig.json
+D:\Projects\C#\LeetCode\71. Simplify Path\71. Simplify Path\bin\Debug\net6.0\71. Simplify Path.dll
+D:\Projects\C#\LeetCode\71. Simplify Path\71. Simplify Path\bin\Debug\net6.0\71. Simplify Path.pdb
+D:\Projects\C#\LeetCode\71. Simplify Path\71. Simplify Path\obj\Debug\net6.0\71. Simplify Path.dll
+D:\Projects\C#\LeetCode\71. Simplify Path\71. Simplify Path\obj\Debug\net6.0\refint\71. Simplify Path.dll
+D:\Projects\C#\LeetCode\71. Simplify Path\71. Simplify Path\obj\Debug\net6.0\71. Simplify Path.pdb
+D:\Projects\C#\LeetCode\71. Simplify Path\71. Simplify Path\obj\Debug\net6.0\71. Simplify Path.genruntimeconfig.cache
+D:\Projects\C#\LeetCode\71. Simplify Path\71. Simplify Path\obj\Debug\net6.0\ref\71. Simplify Path.dll

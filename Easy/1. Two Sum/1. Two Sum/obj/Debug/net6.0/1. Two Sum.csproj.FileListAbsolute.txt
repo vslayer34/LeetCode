@@ -1,0 +1,15 @@
+D:\Projects\C#\LeetCode\1. Two Sum\1. Two Sum\obj\Debug\net6.0\1. Two Sum.csproj.AssemblyReference.cache
+D:\Projects\C#\LeetCode\1. Two Sum\1. Two Sum\obj\Debug\net6.0\1. Two Sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C#\LeetCode\1. Two Sum\1. Two Sum\obj\Debug\net6.0\1. Two Sum.AssemblyInfoInputs.cache
+D:\Projects\C#\LeetCode\1. Two Sum\1. Two Sum\obj\Debug\net6.0\1. Two Sum.AssemblyInfo.cs
+D:\Projects\C#\LeetCode\1. Two Sum\1. Two Sum\obj\Debug\net6.0\1. Two Sum.csproj.CoreCompileInputs.cache
+D:\Projects\C#\LeetCode\1. Two Sum\1. Two Sum\bin\Debug\net6.0\1. Two Sum.exe
+D:\Projects\C#\LeetCode\1. Two Sum\1. Two Sum\bin\Debug\net6.0\1. Two Sum.deps.json
+D:\Projects\C#\LeetCode\1. Two Sum\1. Two Sum\bin\Debug\net6.0\1. Two Sum.runtimeconfig.json
+D:\Projects\C#\LeetCode\1. Two Sum\1. Two Sum\bin\Debug\net6.0\1. Two Sum.dll
+D:\Projects\C#\LeetCode\1. Two Sum\1. Two Sum\bin\Debug\net6.0\1. Two Sum.pdb
+D:\Projects\C#\LeetCode\1. Two Sum\1. Two Sum\obj\Debug\net6.0\1. Two Sum.dll
+D:\Projects\C#\LeetCode\1. Two Sum\1. Two Sum\obj\Debug\net6.0\refint\1. Two Sum.dll
+D:\Projects\C#\LeetCode\1. Two Sum\1. Two Sum\obj\Debug\net6.0\1. Two Sum.pdb
+D:\Projects\C#\LeetCode\1. Two Sum\1. Two Sum\obj\Debug\net6.0\1. Two Sum.genruntimeconfig.cache
+D:\Projects\C#\LeetCode\1. Two Sum\1. Two Sum\obj\Debug\net6.0\ref\1. Two Sum.dll

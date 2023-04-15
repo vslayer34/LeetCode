@@ -1,0 +1,15 @@
+D:\Projects\C#\LeetCode\Easy\9. Palindrome Number\9. Palindrome Number\bin\Debug\net6.0\9. Palindrome Number.exe
+D:\Projects\C#\LeetCode\Easy\9. Palindrome Number\9. Palindrome Number\bin\Debug\net6.0\9. Palindrome Number.deps.json
+D:\Projects\C#\LeetCode\Easy\9. Palindrome Number\9. Palindrome Number\bin\Debug\net6.0\9. Palindrome Number.runtimeconfig.json
+D:\Projects\C#\LeetCode\Easy\9. Palindrome Number\9. Palindrome Number\bin\Debug\net6.0\9. Palindrome Number.dll
+D:\Projects\C#\LeetCode\Easy\9. Palindrome Number\9. Palindrome Number\bin\Debug\net6.0\9. Palindrome Number.pdb
+D:\Projects\C#\LeetCode\Easy\9. Palindrome Number\9. Palindrome Number\obj\Debug\net6.0\9. Palindrome Number.csproj.AssemblyReference.cache
+D:\Projects\C#\LeetCode\Easy\9. Palindrome Number\9. Palindrome Number\obj\Debug\net6.0\9. Palindrome Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C#\LeetCode\Easy\9. Palindrome Number\9. Palindrome Number\obj\Debug\net6.0\9. Palindrome Number.AssemblyInfoInputs.cache
+D:\Projects\C#\LeetCode\Easy\9. Palindrome Number\9. Palindrome Number\obj\Debug\net6.0\9. Palindrome Number.AssemblyInfo.cs
+D:\Projects\C#\LeetCode\Easy\9. Palindrome Number\9. Palindrome Number\obj\Debug\net6.0\9. Palindrome Number.csproj.CoreCompileInputs.cache
+D:\Projects\C#\LeetCode\Easy\9. Palindrome Number\9. Palindrome Number\obj\Debug\net6.0\9. Palindrome Number.dll
+D:\Projects\C#\LeetCode\Easy\9. Palindrome Number\9. Palindrome Number\obj\Debug\net6.0\refint\9. Palindrome Number.dll
+D:\Projects\C#\LeetCode\Easy\9. Palindrome Number\9. Palindrome Number\obj\Debug\net6.0\9. Palindrome Number.pdb
+D:\Projects\C#\LeetCode\Easy\9. Palindrome Number\9. Palindrome Number\obj\Debug\net6.0\9. Palindrome Number.genruntimeconfig.cache
+D:\Projects\C#\LeetCode\Easy\9. Palindrome Number\9. Palindrome Number\obj\Debug\net6.0\ref\9. Palindrome Number.dll
